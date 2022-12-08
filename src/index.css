@@ -1,3 +1,7 @@
+/* global classes can be applied in here
+ to do so, must use interpolation 
+ // `$ header {s.box} `  header becomes availab and s.box still works for the inline style    
+ */
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',

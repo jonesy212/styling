@@ -1,0 +1,12 @@
+.box{
+    background-color: #efefef;
+    padding: 1rem;
+    border-radius: .5rem;
+    color: red;
+}
+
+
+header {
+    
+    text-transform: uppercase;
+}
